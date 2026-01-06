@@ -1,46 +1,21 @@
-# CryptoHub
-<div align="center">
+## 📊 Market Graphs & Analytics
 
-  <img src="./src/assets/CryptoHub.png" alt="CryptoHub Preview" width="100%">
-  
-  [![Live Demo](https://img.shields.io/badge/Live-Demo-7927ff?style=for-the-badge)](https://crypto-hub-rosy.vercel.app)
-  [![GitHub Stars](https://img.shields.io/github/stars/KaranUnique/CryptoHub?style=for-the-badge&logo=github)](https://github.com/KaranUnique/CryptoHub/stargazers)
-  [![GitHub Forks](https://img.shields.io/github/forks/KaranUnique/CryptoHub?style=for-the-badge&logo=github)](https://github.com/KaranUnique/CryptoHub/network/members)
-  [![License](https://img.shields.io/badge/License-MIT-2193b0?style=for-the-badge)](LICENSE)
-</div>
+CryptoHub provides interactive charts to help users understand cryptocurrency market trends.
 
-<br>
+- 📈 Price trend graphs for major cryptocurrencies  
+- 📊 Line charts showing historical price movement  
+- 📉 Percentage change indicators (24h, 7d, 30d)  
+- 🔄 Regularly updated market data from public APIs  
+
+These graphs help users analyze market behavior in a clear and visual way.
+
+## 📊 Charts & Analytics
+
+- View cryptocurrency price trends
+- Analyze historical data using charts
+- Track market changes over time
 
 
-A modern, beginner-friendly cryptocurrency dashboard built with React and Vite.  
-CryptoHub allows users to track real-time crypto prices, analyze coins with charts, and explore crypto-related content—all in one place.
-
----
-
-## 📑 Table of Contents
-
-- [🎯 Who Is This Project For?](#-who-is-this-project-for)
-- [🌟 Key Features](#-key-features)
-- [📄 Pages](#-pages)
-- [🚀 Getting Started (Local Setup)](#-getting-started-local-setup)
-  - [Prerequisites](#prerequisites)
-  - [Installation](#installation)
-  - [❗ Common Issues](#-common-issues)
-  - [Build for Production](#build-for-production)
-- [🛠️ Tech Stack](#️-tech-stack)
-- [📁 Project Structure](#-project-structure)
-- [🤝 Contributing](#-contributing)
-  - [How to Contribute](#how-to-contribute)
-  - [Development Guidelines](#development-guidelines)
-  - [Areas We're Looking For](#areas-were-looking-for)
-- [📋 Code of Conduct](#-code-of-conduct)
-- [👨‍💼 Project Leadership](#-project-leadership)
-- [📄 License](#-license)
-- [🔗 Deployment](#-deployment)
-  - [Deploy to Vercel (Recommended)](#deploy-to-vercel-recommended)
-- [📞 Support & Contact](#-support--contact)
-
----
 
 ## 🎯 Who Is This Project For?
 
